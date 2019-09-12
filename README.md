@@ -3,7 +3,7 @@
 
 This repo provides a list of helpful resources for phprad, to make learning easier. 
 
-Click "<b>Watch/Star</b>" to get an email notification once an update is made for PHPRad Helpful Resources. 
+*Click "Watch/Star" to get an email notification once an update is made to this repository.*
 
 
 ## Sample Projects
