@@ -7,7 +7,7 @@ This repo provides a list of helpful resources for phprad, to make learning easi
 
 
 ## Sample Projects
-[PHPRad My Account Manager](https://github.com/willvin313/phprad-my-account-manager): A PHPRad <b>Account Manager project</b> file, which help users understand how to impliment or configure such feature used.
+[PHPRad Account Manager](https://github.com/willvin313/phprad-account-manager): A PHPRad <b>Account Manager project</b> file, which help users understand how to impliment or configure such feature used.
 
 ## Tutorials
 ### PHPRad
