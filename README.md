@@ -3,11 +3,12 @@
 
 This repo provides a list of helpful resources for phprad, to make learning easier. 
 
-*Click "Watch and Star" to get an email notification once an update is made to this repository. And contributions are also welcomed*
+*Click "Watch and Star" to get an email notification once an update is made to this repository. And contributions are also welcomed.*
 
 
 ## Sample Projects
 [PHPRad Account Manager](https://github.com/willvin313/phprad-account-manager): A PHPRad <b>Account Manager project</b> file, which help users understand how to implement or configure such feature used.
+[PHPRad HR Manager](https://github.com/willvin313/PHPRad-HR-Manager): A PHPRad <b>HR Manager project</b> file, to generate a webapp with the below features, which also help users understand how to implement or configure such feature in PHPRad. In the project we avoid using custom page and field editing.
 
 ## Tutorials
 ### PHPRad
