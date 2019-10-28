@@ -5,7 +5,9 @@ This repo provides a list of helpful resources for phprad, to make learning easi
 
 *Click "Watch and Star" to get an email notification once an update is made to this repository. And contributions are also welcomed.*
 
+You can support this project by donating to the following address.
 
+<strong>PayPal:</strong> putonlock@gmail.com
 
 ## Projects
 ### PHPRad Classic Edition
