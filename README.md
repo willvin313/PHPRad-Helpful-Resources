@@ -1,5 +1,5 @@
 # PHPRad Helpful Resources
-[[PHPRad website](https://www.phprad.com)] [[PHPRad Download link](https://phprad.com/info/download)] [[PHPRad Purchase link](https://phprad.com/info/purchase)] [[PHPRad Youtube channel](https://www.youtube.com/channel/UCw5yA932KwBhTIzg-8Alz_w)]
+[[PHPRad website](https://www.phprad.com)] [[PHPRad Download link](https://phprad.com/info/download)] [[PHPRad Purchase link](https://phprad.com/info/purchase)] [[PHPRad Youtube channel](https://www.youtube.com/channel/UCw5yA932KwBhTIzg-8Alz_w)] [[Willvin's Youtube channel](https://www.youtube.com/channel/UCHCEiFFWcdcXhzgePJJtIZQ)]
 
 This repo provides a list of helpful resources for phprad, to make learning easier. 
 
@@ -9,15 +9,20 @@ You can support this project by donating to the following address.
 
 <strong>PayPal:</strong> putonlock@gmail.com
 
+<strong>Be a Patreon:</strong> <a href="https://www.patreon.com/willvinofficial">Willvin</a>
+
 ## Projects
 ### PHPRad Classic Edition
 - [PHPRad Account Manager](https://github.com/willvin313/phprad-account-manager): A PHPRad <b>Account Manager project</b> file, which help users understand how to implement or configure such feature used.
 - [PHPRad HR Manager](https://github.com/willvin313/PHPRad-HR-Manager): A PHPRad <b>HR Manager project</b> file, to generate a webapp with the below features, which also help users understand how to implement or configure such feature in PHPRad. In the project we avoid using custom page and field editing.
 ### PHPRad Vue Edition
 
-
+## PATREON SPONSORS
+- <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/26380597/2243dc068b9540a5bd6dfcb131f56357/1.png?token-time=2145916800&token-hash=n8EglcykRi935ojW4fX-zCqoQpHpOXdTlES1POmlWo0%3D"  alt="image" height="22" > <strong>Luis Felix</strong>
 
 ## Tutorials
+### 
+
 ### PHPRad
 - [User Record Management](https://www.youtube.com/watch?v=YB3E5L6vCuk&t=54s): This video demonstrate how to setup user record management. Where user is only allowed to edit, update, or delete his/her records.
 - [PHPRad User Authentication](https://www.youtube.com/watch?v=9F2t1q_Eovg): This video demonstrate how to setup user login and registration page in PHPRad.
@@ -42,8 +47,6 @@ You can support this project by donating to the following address.
 
 ### Julio Fabian
 - [PHPRad Studio Video tutorial(Spanish)](https://www.youtube.com/watch?v=f9iQYoU9Bo0)
-
-
 
 ## Documentations
 - [PHPRad Documentation](https://docs.radsystems.io/)
