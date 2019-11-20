@@ -9,7 +9,7 @@ You can support this project by donating to the following address.
 
 <strong>PayPal:</strong> putonlock@gmail.com
 
-<strong>Be a Patreon:</strong> <a href="https://www.patreon.com/willvinofficial">Willvin</a>
+<a href="https://www.patreon.com/bePatron?u=25729924" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
 
 ## Projects
 ### PHPRad Classic Edition
