@@ -21,7 +21,6 @@ You can support this project by donating to the following address.
 
 ## PATREON SPONSORS
 - <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/26380597/2243dc068b9540a5bd6dfcb131f56357/1.png?token-time=2145916800&token-hash=n8EglcykRi935ojW4fX-zCqoQpHpOXdTlES1POmlWo0%3D"  alt="image" height="22" > <strong>Luis Felix</strong>
-- <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/28585718/b549ef2aa3c446cca01a05280303a021/1.png?token-time=2145916800&amp;token-hash=Id-2o1rcNF80ffnOfa_j4wAOgyeG1qULkkBxeK5eKZY%3D"  alt="image" height="22" > <strong>Henry Pierce</strong>
 
 ## Tutorials
 ### 
