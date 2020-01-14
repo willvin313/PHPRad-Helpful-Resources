@@ -16,14 +16,18 @@ You can support this project by donating to the following address.
 ## Projects
 ### PHPRad Classic Edition
 - [PHPRad Account Manager](https://github.com/willvin313/phprad-account-manager): A PHPRad <b>Account Manager project</b> file, which help users understand how to implement or configure such feature used.
-- [PHPRad HR Manager](https://github.com/willvin313/PHPRad-HR-Manager): A PHPRad <b>HR Manager project</b> file, to generate a webapp with the below features, which also help users understand how to implement or configure such feature in PHPRad. In the project we avoid using custom page and field editing.
+- [PHPRad HR Manager](https://github.com/willvin313/PHPRad-HR-Manager): A PHPRad <b>HR Manager project</b> file, to generate a webapp, which also help users understand how to implement or configure such feature in PHPRad. In the project we avoid using custom page and field editing.
+- [PHPRad HR Manager](https://www.patreon.com/posts/33105941): A PHPRad <b>Invoice App project</b> file, to generate a webapp, which also help users understand how to implement or configure such feature in PHPRad.
 ### PHPRad Vue Edition
 
 ## PATREON SPONSORS
 - <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/26380597/2243dc068b9540a5bd6dfcb131f56357/1.png?token-time=2145916800&token-hash=n8EglcykRi935ojW4fX-zCqoQpHpOXdTlES1POmlWo0%3D"  alt="image" height="22" > <strong>Luis Felix</strong>
 
 ## Tutorials
-### 
+###
+
+### willvin
+- [PHPRad Tutorial 1: Creating an invoice project with PhpRad](https://youtu.be/mzzx8IrQd_E): This video demonstrate how to create an invoice application using phprad, using basic configurations and making it advance by applying a template to it.
 
 ### PHPRad
 - [User Record Management](https://www.youtube.com/watch?v=YB3E5L6vCuk&t=54s): This video demonstrate how to setup user record management. Where user is only allowed to edit, update, or delete his/her records.
