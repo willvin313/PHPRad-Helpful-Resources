@@ -17,7 +17,7 @@ You can support this project by donating to the following address.
 ### PHPRad Classic Edition
 - [PHPRad Account Manager](https://github.com/willvin313/phprad-account-manager): A PHPRad <b>Account Manager project</b> file, which help users understand how to implement or configure such feature used.
 - [PHPRad HR Manager](https://github.com/willvin313/PHPRad-HR-Manager): A PHPRad <b>HR Manager project</b> file, to generate a webapp, which also help users understand how to implement or configure such feature in PHPRad. In the project we avoid using custom page and field editing.
-- [PHPRad HR Manager](https://www.patreon.com/posts/33105941): A PHPRad <b>Invoice App project</b> file, to generate a webapp, which also help users understand how to implement or configure such feature in PHPRad.
+- [PHPRad Invoice App](https://www.patreon.com/posts/33105941): A PHPRad <b>Invoice App project</b> file, to generate a webapp, which also help users understand how to implement or configure such feature in PHPRad.
 ### PHPRad Vue Edition
 
 ## PATREON SPONSORS
