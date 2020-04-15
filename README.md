@@ -7,6 +7,8 @@ This repo provides a list of helpful resources for phprad, to make learning easi
 
 You can support this project by donating to the following address.
 
+<a href="https://www.buymeacoffee.com/GCWc1kS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="51px" ></a>
+
 <strong>PayPal:</strong> <a href="https://paypal.me/willvin">Make a Donation</a>
 
 <strong>Patreon:</strong> <a href="https://www.patreon.com/bePatron?u=25729924" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
