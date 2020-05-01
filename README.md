@@ -23,7 +23,13 @@ You can support this project by donating to the following address.
 ### PHPRad Vue Edition
 
 ## PATREON SPONSORS
+Thanks to all my patreons for their support, both those listed and those not listed here, i appreciate all your efforts.
+### Current
+- <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/34323199/7d807cbce5114aed9af95ae97b824725/1.jpeg?token-time=2145916800&token-hash=HdW7FF2XgvxVGnvXtaXKVzG6tUrnL2g2bfZ1dIb_r6w%3D"  alt="image" height="22" > <strong>Tomasz Rutkowski</strong>
+### Old
 - <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/26380597/2243dc068b9540a5bd6dfcb131f56357/1.png?token-time=2145916800&token-hash=n8EglcykRi935ojW4fX-zCqoQpHpOXdTlES1POmlWo0%3D"  alt="image" height="22" > <strong>Luis Felix</strong>
+- <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/28585718/b549ef2aa3c446cca01a05280303a021/1.png?token-time=2145916800&token-hash=Id-2o1rcNF80ffnOfa_j4wAOgyeG1qULkkBxeK5eKZY%3D"  alt="image" height="22" > <strong>Henry Pierce</strong>
+- <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/29155537/b04e7712e24d42d79bfdec1e98183372/1.png?token-time=2145916800&token-hash=9WA_nB3zi4jZhCmitymSBLhTTNbYckDGyjLV9HMT_7E%3D"  alt="image" height="22" > <strong>PETER JOHN MBEWE</strong>
 
 ## Tutorials
 ###
