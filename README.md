@@ -15,6 +15,9 @@ You can support this project by donating to the following address.
 
 <strong>YouTube:</strong> <a href="https://www.youtube.com/channel/UCHCEiFFWcdcXhzgePJJtIZQ">Subscribe to willvin</a>
 
+## PHPRad Composer Plugins
+- [Przelewy24 Payment Gateway Plugin](https://github.com/willvin313/przelewy24): A PHPRad composer plugin created for ustilizing the przelewy24 payment gateway.
+
 ## Projects
 ### PHPRad Classic Edition
 - [PHPRad Account Manager](https://github.com/willvin313/phprad-account-manager): A PHPRad <b>Account Manager project</b> file, which help users understand how to implement or configure such feature used.
