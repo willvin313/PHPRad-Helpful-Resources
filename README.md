@@ -28,6 +28,7 @@ You can support this project by donating to the following address.
 ## PATREON SPONSORS
 Thanks to all my patreons for their support, both those listed and those not listed here, i appreciate all your efforts.
 ### Current
+- <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/43932937/314cb6a3c3854207aaa6dee689cdc9fc/1.jpeg?token-time=2145916800&token-hash=TEXSOy8WZNxE3v6dKAqXTM6qgphXLXmvkfA7_mMqYi8%3D"  alt="image" height="22" > <strong>Synchrosys Consultings & Software Co., Ltd.</strong>
 - <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/34323199/7d807cbce5114aed9af95ae97b824725/1.jpeg?token-time=2145916800&token-hash=HdW7FF2XgvxVGnvXtaXKVzG6tUrnL2g2bfZ1dIb_r6w%3D"  alt="image" height="22" > <strong>Tomasz Rutkowski</strong>
 ### Old
 - <img src="https://c8.patreon.com/2/200/19272375"  alt="image" height="22" > <strong>JdjF</strong>
