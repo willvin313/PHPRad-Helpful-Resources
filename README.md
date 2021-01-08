@@ -28,10 +28,11 @@ You can support this project by donating to the following address.
 ## PATREON SPONSORS
 Thanks to all my patreons for their support, both those listed and those not listed here, i appreciate all your efforts.
 ### Current
+- <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/47471429/a3515152b5244d88af393d1e209a107c/1.png?token-time=2145916800&token-hash=vjnC_DGRMXiwt5UAbY6wGHlVzdpqMuo-WXD4wIgYkEg%3D"  alt="image" height="22" > <strong>Florian G</strong>
 - <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/46190325/c639bf046f7c42e894e62037c80afca7/1.png?token-time=2145916800&token-hash=P4lrO6YGyY0UHbW_S_O8cJOX11oeh_ytLhQzFS0hkZU%3D"  alt="image" height="22" > <strong>Donald</strong>
-- <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/43932937/314cb6a3c3854207aaa6dee689cdc9fc/1.jpeg?token-time=2145916800&token-hash=TEXSOy8WZNxE3v6dKAqXTM6qgphXLXmvkfA7_mMqYi8%3D"  alt="image" height="22" > <strong>Synchrosys Consultings & Software Co., Ltd.</strong>
 - <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/34323199/7d807cbce5114aed9af95ae97b824725/1.jpeg?token-time=2145916800&token-hash=HdW7FF2XgvxVGnvXtaXKVzG6tUrnL2g2bfZ1dIb_r6w%3D"  alt="image" height="22" > <strong>Tomasz Rutkowski</strong>
 ### Old
+- <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/43932937/314cb6a3c3854207aaa6dee689cdc9fc/1.jpeg?token-time=2145916800&token-hash=TEXSOy8WZNxE3v6dKAqXTM6qgphXLXmvkfA7_mMqYi8%3D"  alt="image" height="22" > <strong>Synchrosys Consultings & Software Co., Ltd.</strong>
 - <img src="https://c8.patreon.com/2/200/8961104"  alt="image" height="22" > <strong>Ondra Simons</strong>
 - <img src="https://c8.patreon.com/2/200/19272375"  alt="image" height="22" > <strong>JdjF</strong>
 - <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/26380597/2243dc068b9540a5bd6dfcb131f56357/1.png?token-time=2145916800&token-hash=n8EglcykRi935ojW4fX-zCqoQpHpOXdTlES1POmlWo0%3D"  alt="image" height="22" > <strong>Luis Felix</strong>
