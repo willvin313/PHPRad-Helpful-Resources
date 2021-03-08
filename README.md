@@ -28,6 +28,7 @@ You can support this project by donating to the following address.
 ## PATREON SPONSORS
 Thanks to all my patreons for their support, both those listed and those not listed here, i appreciate all your efforts.
 ### Current
+- <img src="https://c8.patreon.com/2/200/51868598"  alt="image" height="22" > <strong>Malik Brown</strong>
 - <img src="https://c8.patreon.com/2/200/36441639"  alt="image" height="22" > <strong>Youssef Hammoumi</strong>
 - <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/47471429/a3515152b5244d88af393d1e209a107c/1.png?token-time=2145916800&token-hash=vjnC_DGRMXiwt5UAbY6wGHlVzdpqMuo-WXD4wIgYkEg%3D"  alt="image" height="22" > <strong>Florian G</strong>
 - <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/34323199/7d807cbce5114aed9af95ae97b824725/1.jpeg?token-time=2145916800&token-hash=HdW7FF2XgvxVGnvXtaXKVzG6tUrnL2g2bfZ1dIb_r6w%3D"  alt="image" height="22" > <strong>Tomasz Rutkowski</strong>
@@ -44,11 +45,14 @@ Thanks to all my patreons for their support, both those listed and those not lis
 ###
 
 ### willvin
+
+- [PHPRad Tips and Tricks 6: How to use the Page Events properly - Part 1](https://www.youtube.com/watch?v=W0tsxWBHuqU): This video explains how you can use the Page Events in your PHPRad Projects. This is part 1 of a 2 video series.
+- [PHPRad Tips and Tricks 4: Integrating Barcode into your Project - Part 1](https://www.youtube.com/watch?v=SsQzXnNzBmk): This video explains how you can integrate barcode into your PHPRad Projects. This is part 1 of a 2 video series. Link for the final part, part 2. https://www.patreon.com/posts/32484018 
+- [PHPRad Tips and Tricks 3: Integrating Frappe Gantt Chart to your Project - Part 1](https://www.youtube.com/watch?v=Q0b6yuRFHNw): This video explains the basic step of adding Frappe's Gantt Chart to PHPRad Projects. This is part 1 of a 3 video series.
 - [PHPRad Tutorial 1: Creating an invoice project with PhpRad](https://youtu.be/mzzx8IrQd_E): This video demonstrate how to create an invoice application using phprad, using basic configurations and making it advance by applying a template to it.
 - [PHPRad Tutorial 2: Introduction to phprad 2.7.x (what’s new in phprad 2.7.x)](https://www.youtube.com/watch?v=OUZ_3_lIU8Y): This video explains the new features added to phprad version 2.7.x and how to use them in your projects.
 - [PHPRad Tips and Tricks: Using Custom Field Expression](https://www.youtube.com/watch?v=Xz_hk7-VWWM): Tips on how to use the PHPRad Custom Field Expression.
 - [PHPRad Tips and Tricks: Integrating full calendar plugin into your PHPRad Project - Part 1](https://www.youtube.com/watch?v=OZnyvphKpZI): This video explains how to add the full calendar plugin to your PHPRad project. This is part 1 of a 3  video series.
-
 - [PHPRad Tips and Tricks: Integrating full calendar plugin into your PHPRad Project - Part 2](https://www.youtube.com/watch?v=UsLlG4EvkbQ): This video explains how to add the full calendar plugin to your PHPRad project. This is part 2 of a 3 video series. We made the full calendar plugin to pick our appointments from the database.
 
 ### PHPRad
