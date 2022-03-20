@@ -1,7 +1,7 @@
 # PHPRad Helpful Resources
 [[PHPRad website](https://www.phprad.com)] [[PHPRad Download link](https://phprad.com/info/download)] [[PHPRad Purchase link](https://phprad.com/info/purchase)] [[PHPRad Youtube channel](https://www.youtube.com/channel/UCw5yA932KwBhTIzg-8Alz_w)] [[Willvin's Youtube channel](https://www.youtube.com/channel/UCHCEiFFWcdcXhzgePJJtIZQ)] [[Radsystems Studio Helpful Resources](https://github.com/willvin313/Radsystems-studio-Helpful-Resources)]
 
-*click <a href="https://www.willvin.com/radsystems_licenses" >here👈</a> to buy <b>Radsystems Studio & PHPRad Licenses</b> at a discount.*
+*Click <a href="https://www.willvin.com/radsystems_licenses" >here👈</a> to buy <b>Radsystems Studio & PHPRad Licenses</b> at a discount.*
 
 This repo provides a list of helpful resources for phprad, to make learning easier. 
 
