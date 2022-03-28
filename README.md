@@ -30,6 +30,7 @@ You can support this project by donating to the following address.
 ## PATREON SPONSORS
 Thanks to all my patreons for their support, both those listed and those not listed here, i appreciate all your efforts.
 ### Current
+- <img src="https://c10.patreonusercontent.com/4/patreon-media/p/user/70985774/2fa8f4e573af4c9cba169597584c4e4b/eyJ3IjoyMDB9/1.png?token-time=2145916800&token-hash=d8Mv347FM1GNTvFtoIcO-Xesqmw1-ozSanpyELryfnQ%3D"  alt="image" height="22" > <strong>SWA SWA</strong>
 - <img src="https://c10.patreonusercontent.com/4/patreon-media/p/user/29088682/0eb7c61ff8f84d28af2ec1a33cfb6fa6/eyJ3IjoyMDB9/1.png?token-time=2145916800&token-hash=vXH1BjLx29nTiJ04IffIIkG5BMHxraTLweGype8fikA%3D"  alt="image" height="22" > <strong>PHONGSAKORN SIRIRAK</strong>
 - <img src="https://c8.patreon.com/2/200/68406007"  alt="image" height="22" > <strong>Guillaume Martin</strong>
 - <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/30421359/8d414278d176427282294333b13c19b0/1.jpeg?token-time=2145916800&token-hash=26nV7r21q362KW0U8SHHYDc65l4cvI1Vj0FTI-uJA3M%3D"  alt="image" height="22" > <strong>Mohamad Aidil NDT</strong>
