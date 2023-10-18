@@ -30,13 +30,13 @@ You can support this project by donating to the following address.
 ## PATREON SPONSORS
 Thanks to all my patreons for their support, both those listed and those not listed here, i appreciate all your efforts.
 ### Current
+### Old
 - <img src="https://c10.patreonusercontent.com/4/patreon-media/p/user/70985774/2fa8f4e573af4c9cba169597584c4e4b/eyJ3IjoyMDB9/1.png?token-time=2145916800&token-hash=d8Mv347FM1GNTvFtoIcO-Xesqmw1-ozSanpyELryfnQ%3D"  alt="image" height="22" > <strong>SWA SWA</strong>
 - <img src="https://c10.patreonusercontent.com/4/patreon-media/p/user/29088682/0eb7c61ff8f84d28af2ec1a33cfb6fa6/eyJ3IjoyMDB9/1.png?token-time=2145916800&token-hash=vXH1BjLx29nTiJ04IffIIkG5BMHxraTLweGype8fikA%3D"  alt="image" height="22" > <strong>PHONGSAKORN SIRIRAK</strong>
 - <img src="https://c8.patreon.com/2/200/68406007"  alt="image" height="22" > <strong>Guillaume Martin</strong>
 - <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/30421359/8d414278d176427282294333b13c19b0/1.jpeg?token-time=2145916800&token-hash=26nV7r21q362KW0U8SHHYDc65l4cvI1Vj0FTI-uJA3M%3D"  alt="image" height="22" > <strong>Mohamad Aidil NDT</strong>
 - <img src="https://c8.patreon.com/2/200/36441639"  alt="image" height="22" > <strong>Youssef Hammoumi</strong>
 - <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/34323199/7d807cbce5114aed9af95ae97b824725/1.jpeg?token-time=2145916800&token-hash=HdW7FF2XgvxVGnvXtaXKVzG6tUrnL2g2bfZ1dIb_r6w%3D"  alt="image" height="22" > <strong>Tomasz Rutkowski</strong>
-### Old
 - <img src="https://c8.patreon.com/2/200/51868598"  alt="image" height="22" > <strong>Malik Brown</strong>
 - <img src="https://c8.patreon.com/2/200/44279284"  alt="image" height="22" > <strong>beerawa</strong>
 - <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/49832445/ad40ed33dd234708a8ffdc8c92802f2d/1.jpeg?token-time=2145916800&token-hash=D2NIkV4DiXIn0Zm_6kdcpanP9u6Heq5Ink1ovbX1dv8%3D"  alt="image" height="22" > <strong>Desmond Mpofu</strong>
